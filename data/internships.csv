@@ -1,0 +1,11 @@
+id,title,company,domain,salary,company_age,has_website
+1,Python Intern,ABC Tech,ML,15000,5,True
+2,Data Analyst Intern,XYZ Pvt Ltd,Data,12000,2,True
+3,ML Intern,FakeSoft,ML,80000,0,False
+4,Web Dev Intern,WebWorks,Web,10000,4,True
+5,Backend Intern,CloudByte,Web,18000,6,True
+6,AI Intern,NeuralLabs,ML,20000,3,True
+7,Software Intern,CodeNest,DSA,12000,5,True
+8,Data Science Intern,DataHive,ML,25000,2,True
+9,ML Intern,QuickAI,ML,60000,1,False
+10,Frontend Intern,PixelSoft,Web,14000,3,True

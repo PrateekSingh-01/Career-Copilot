@@ -1,0 +1,9 @@
+id,name,provider,domain,difficulty,skills
+1,DSA Bootcamp,Udemy,DSA,Beginner,"arrays strings linkedlist stacks queues"
+2,DSA Masterclass,Unacademy,DSA,Intermediate,"trees graphs dp recursion"
+3,Python for Data Science,Coursera,ML,Beginner,"python numpy pandas"
+4,Machine Learning Specialization,Coursera,ML,Intermediate,"ml regression classification"
+5,Deep Learning Bootcamp,Udemy,ML,Advanced,"cnn rnn transformers"
+6,Full Stack Web Dev,Udemy,Web,Beginner,"html css javascript"
+7,React Masterclass,Udemy,Web,Intermediate,"react frontend"
+8,Backend with FastAPI,Udemy,Web,Intermediate,"fastapi api backend"
