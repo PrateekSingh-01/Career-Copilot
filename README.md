@@ -1,4 +1,4 @@
-# 🚀 CareerAI Suite
+# 🚀 Career Copilot
 
 > **Three powerful AI career tools — unified into one polished platform.**
 
